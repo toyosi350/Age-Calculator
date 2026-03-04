@@ -17,3 +17,5 @@ A simple Node.js command-line app that asks for your name and date of birth, val
    ```bash
    git clone https://github.com/toyosi350/Age-Calculator.git
    cd Age-Calculator
+
+   node Age_calculator.js
